@@ -18,6 +18,16 @@ const Heading = glamorous.h1({
 })
 ```
 
+#Links
+
+Change the `Link` to this:
+```js
+const Link = glamorous.a({
+
+})
+```
+
+
 # Help!
 
 That's all we have for now, but if you'd like to help with this guide that'd be
