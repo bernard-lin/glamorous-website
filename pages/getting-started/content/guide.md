@@ -5,7 +5,7 @@ We're going to teach you `glamorous` by having you edit the guide you're reading
 # Titles
 
 Let's start by making the headings on this page look nice. With `glamorous`,
-instead of the normal CSS syntax you maybe familiar with, we regular JavaScript
+instead of the normal CSS syntax you maybe familiar with, we work with regular JavaScript
 objects.
 
 Change the `Heading` to this:
